@@ -1,5 +1,7 @@
 # Mastermind
  Mastermind Game for CMD
+ 
+One of my first Projects.
 
 # Preview / How it works
 Language Picker
