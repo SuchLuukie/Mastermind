@@ -12,4 +12,4 @@ Start
 ![Start](https://github.com/SuchLuukie/Mastermind/blob/main/Showcase/begin.PNG?raw=true)
 
 Loss
-![Start](https://github.com/SuchLuukie/Mastermind/blob/main/Showcase/Finished.PNG?raw=true)
+![Loss](https://github.com/SuchLuukie/Mastermind/blob/main/Showcase/Finished.PNG?raw=true)
