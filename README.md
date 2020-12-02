@@ -1,7 +1,9 @@
 # Mastermind
  Mastermind Game for CMD
- 
 One of my first Projects.
+
+# Libraries Used:
+ * Clint - Coloring letters in CMD
 
 # Preview / How it works
 Language Picker
